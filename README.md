@@ -22,8 +22,8 @@ Copy the two files autoconfig.js and autoconfig.cfg to the Firefox installation
 directory:
 
 ```
-<firfox install dir>/defaults/pref/autoconfig.js
-<firfox install dir>/autoconfig.cfg
+<firefox install dir>/defaults/pref/autoconfig.js
+<firefox install dir>/autoconfig.cfg
 ```
 
 Restarting Firefox should apply the new settings to the existing profiles.
